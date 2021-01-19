@@ -1,2 +1,6 @@
 <!--pages/home/home.wxml-->
 <text>我是版本1</text>
+
+<view>
+  打标签111111111
+</view>
